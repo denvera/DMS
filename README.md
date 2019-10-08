@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/belfastelixir/DMS.svg?branch=master)](https://travis-ci.org/belfastelixir/DMS)
+[![Coverage Status](https://coveralls.io/repos/github/belfastelixir/DMS/badge.svg?branch=master)](https://coveralls.io/github/belfastelixir/DMS?branch=master)
+
 # DMS (Dead Man's Switch)
 
 A simple OTP Application (and eventually an HTTP API) which enables short
